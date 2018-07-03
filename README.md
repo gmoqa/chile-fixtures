@@ -4,7 +4,7 @@ Pushed to save your wonderful time, we based in [Communes of Chile](https://en.w
 
 ## Getting Started
 
-Accommodate your needs, for this we use in 3 entities 
+Entities
 
 * Region (name, ISO)
 * Province (name, Region)
@@ -13,10 +13,6 @@ Accommodate your needs, for this we use in 3 entities
 
 ### Prerequisites
 
-Obviously
-
 ```
-composer require orm-fixtures
+you know
 ```
-
-Using the incredible recipes 
